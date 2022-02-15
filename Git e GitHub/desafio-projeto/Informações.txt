@@ -1,0 +1,3 @@
+Este desafio consistia em criar e organizar meu primeiro diretório no GitHub.
+Para isso, foi criado um diretório geral, no qual serão alocados todos os códigos desenvolvidos durante os cursos realizados na DIO.
+Os códigos serão separados em pastas, cada uma dedicada a um curso específico.
